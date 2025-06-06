@@ -1,5 +1,6 @@
 # 📊 A/B Teste Simples com Python
 
+
 Este repositório contém um exemplo prático e comentado de como realizar um **teste A/B estatístico** usando Python, com geração de dados simulados para uma campanha digital.
 
 ---
