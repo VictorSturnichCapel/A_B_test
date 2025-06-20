@@ -4,6 +4,7 @@ Este repositório contém um exemplo prático e comentado de como realizar um **
 
 ---
 
+
 ## 🔍 Sobre o Projeto
 
 A ideia é comparar a **taxa de conversão** entre dois grupos (A e B) de usuários que visualizaram versões diferentes de uma campanha, determinando se a diferença observada é estatisticamente significativa.
